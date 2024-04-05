@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11963552&assignment_repo_type=AssignmentRepo)
-# Atividade 5
+# Atividade 4
 
 
 ## Sumário 
@@ -13,7 +13,7 @@
 ## Como Utilizar Esse Projeto 📁
 
 - Nesse projeto há duas pastas:
-    - FazerNetBeans:Exclusiva para realizar na IDE NetBeans 8.2 (Utilizaremos esse no Laboratório)
+    - FazerNetBeans:Exclusiva para realizar na IDE NetBeans 8.2 (ou Superior)
     - FazerNetBeans:Exclusiva para realizar no VisualStudio Code. 
 
 - Na sua máquina tem que ter instalado o <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank">Java Development Kit (JDK) </a> 
@@ -50,6 +50,6 @@ Implementar uma classe que seja capaz de simular todos operadores possíveis no 
 - Utilze comentários para elucidar o cenário elaborado;
 
 ## Feedback 📨
--  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 40% da Nota da M2;
+-  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 40% da Nota da M1;
 -  A nota será atribuída no Microsoft Teams
 
